@@ -1,0 +1,9 @@
+c:\users\christina_r\documents\visual studio 2015\Projects\СПО6-7лаба\СПО6-7лаба\bin\Debug\СПО6-7лаба.exe.config
+c:\users\christina_r\documents\visual studio 2015\Projects\СПО6-7лаба\СПО6-7лаба\bin\Debug\СПО6-7лаба.exe
+c:\users\christina_r\documents\visual studio 2015\Projects\СПО6-7лаба\СПО6-7лаба\bin\Debug\СПО6-7лаба.pdb
+c:\users\christina_r\documents\visual studio 2015\Projects\СПО6-7лаба\СПО6-7лаба\obj\Debug\СПО6-7лаба.csprojResolveAssemblyReference.cache
+c:\users\christina_r\documents\visual studio 2015\Projects\СПО6-7лаба\СПО6-7лаба\obj\Debug\СПО6_7лаба.Form1.resources
+c:\users\christina_r\documents\visual studio 2015\Projects\СПО6-7лаба\СПО6-7лаба\obj\Debug\СПО6_7лаба.Properties.Resources.resources
+c:\users\christina_r\documents\visual studio 2015\Projects\СПО6-7лаба\СПО6-7лаба\obj\Debug\СПО6-7лаба.csproj.GenerateResource.Cache
+c:\users\christina_r\documents\visual studio 2015\Projects\СПО6-7лаба\СПО6-7лаба\obj\Debug\СПО6-7лаба.exe
+c:\users\christina_r\documents\visual studio 2015\Projects\СПО6-7лаба\СПО6-7лаба\obj\Debug\СПО6-7лаба.pdb
